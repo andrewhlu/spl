@@ -1,5 +1,15 @@
 # Smart Parking Lot
 
+Andrew Lu, Finn Linderman, Kelly Yeh, Luyao Han, Seungjun Cho
+
+ECE 189 - [Computer Engineering Capstone](https://web.ece.ucsb.edu/~yoga/capstone/), Professor Isukapalli
+
+[View Repository on GitHub](https://github.com/andrewhlu/spl)
+
+[Open Slack Workspace](http://ucsb-capstone-21.slack.com/)
+
+---
+
 ## Project Statement
 
 The rapid advancement of cloud computing has boosted the development of IoT devices in recent years. For example, IoT devices are deployed into farms to monitor and manage the status of crops. In another case, a massive amount of IoT devices are used to gather the wind direction & speed data for predicting the weather. In this project, we want to take the advantage of the current IoT development and try to save drivers time while they are searching for an unoccupied parking spot. Specifically, we are aiming to design a smart parking lot to ease the process of finding a parking spot.
