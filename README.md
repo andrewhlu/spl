@@ -73,12 +73,17 @@ Magnetometer
 - Relatively low power consumption
 - Complicated object detection algorithm
 - May require heavy signal processing
+- More resistant to noise
 
 IR light
 - Requires emitter + sensor combo (something on both sides)
 - Measure light being emitted
 - Can be used at night, but costly, and can only be used indoors
 
+Action Items: 
+- Clarify with Yoga regarding power consumption and usage/maintenance requirements in Parking lot 10 and which parking lots the project will be used for.
+- Decide on overhead wired vs in-ground vehicle detection sensor
+- Research and decide if solar power is an option
 
 <!-- Don't edit anything below this line! -->
 
