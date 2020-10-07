@@ -86,6 +86,9 @@ Action Items:
 - Research and decide if solar power is an option
 
 ## 10/7 Meeting
+
+Office hours with Yoga, Luyao, Andrew
+
 Confirmed with Yoga: 
 - wired devices are not accepted in parking lot
 - cannot get a Parkjapa sensor from TPS
@@ -93,6 +96,8 @@ Confirmed with Yoga:
 Suggested research topics:
 - wireless transceiving device suited for average parking lot dimension
 - low power consumption processor
+  - Luyao will look into STM32L0
+- solar panels as a method of extending battery life
 
 Suggested device aspects:
 - should last for at least 5 years
