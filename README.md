@@ -1,7 +1,5 @@
 # Smart Parking Lot
 
-Andrew Lu, Finn Linderman, Kelly Yeh, Luyao Han, Seungjun Cho
-
 ECE 189 - [Computer Engineering Capstone](https://web.ece.ucsb.edu/~yoga/capstone/), Professor Isukapalli
 
 [View Repository on GitHub](https://github.com/andrewhlu/spl)
@@ -9,6 +7,14 @@ ECE 189 - [Computer Engineering Capstone](https://web.ece.ucsb.edu/~yoga/capston
 [Open Slack Workspace](http://ucsb-capstone-21.slack.com/)
 
 ---
+
+## Team Members
+
+* Andrew Lu - Team Lead
+* Finn Linderman
+* Kelly Yeh - Scribe
+* Luyao Han
+* Seungjun Cho
 
 ## Project Statement
 
@@ -35,6 +41,43 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
 - Server-side backend logic and APIs design.
 - IoT devises firmware design, usually involves configuring interfaces like I2C, SPI, etc, communicating with sensors and managing threads if RTOS is used.
 - Front-end application design.
+
+---
+
+# Meeting Notes
+
+## 10/5 Meeting
+
+We started this meeting by deciding on our team lead - Andrew Lu. 
+
+We also decided on a scribe for our meetings - Kelly Yeh.
+
+Resources compiled from individual research:
+
+* [Bosch Parking Lot Sensor](https://www.bosch-connectivity.com/products/connected-mobility/parking-lot-sensor/)
+  * A solution very similar (at least in appearance) to the one seen on JAPA. 
+  * [Bosch Datasheet, Manuals](https://www.bosch-connectivity.com/products/connected-mobility/parking-lot-sensor/downloads/)
+  * [Alliot (Vendor) Datasheet, Specs](https://www.alliot.co.uk/products/sensors/parking-management-sensors/bosch-lorawan-parking-sensor/)
+    * This vendor sells for [£175.75 + VAT](https://www.alliot.co.uk/products/sensors/parking-management-sensors/bosch-lorawan-parking-sensor#:~:text=RRP:%20%C2%A3175.75+VAT) (which is roughly $227.2 excluding tax).
+    * This is about 7.6% of our budget, so we don't think it's worth the investment to purchase for R&D.
+* [2008 IEEE Paper from USC - "Intelligent Parling Lot Applications Using Wireless Sensor Networks"](http://anrg.usc.edu/~amitabhag/papers/CTS-2008.pdf)
+* [Vehicle Detection Solutions - YouTube](https://www.youtube.com/watch?v=7a1fiUJtp_k)
+
+Brief notes from our discussion of the various sensors:
+
+Ultrasonic Sensor
+- Generally very accurate when used to detect vehicles 
+- Tradeoff between accuracy and power
+
+Magnetometer
+- Relatively low power consumption
+- Complicated object detection algorithm
+- May require heavy signal processing
+
+IR light
+- Requires emitter + sensor combo (something on both sides)
+- Measure light being emitted
+- Can be used at night, but costly, and can only be used indoors
 
 
 <!-- Don't edit anything below this line! -->
