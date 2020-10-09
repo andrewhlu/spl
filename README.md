@@ -102,6 +102,48 @@ Suggested research topics:
 Suggested device aspects:
 - should last for at least 5 years
 
+## 10/9 Meeting
+
+We started by discussing our new project requirements from Office Hours
+
+Problems with Battery-powered Solutions
+- Wireless communication
+  - This might require a lot of power, esp. to get past metal from cars and concrete slabs
+
+Problems with Solar Panels
+- Only works for outdoor parking structures without a roof (i.e. not Parking Lot 10)
+- Where would we put the solar panel?
+  - Putting it directly on the space would work, but we can't guarantee that there will be periods of time where there is no car parked and the unit can charge
+- We are going to hold off on researching this for now - if we have time later, we can look into making a version with a solar panel (i.e. an "outdoor" model)
+
+### Areas of Research for Next Week
+
+Microprocessor / Magnetometer
+- Luyao will look into purchasing a Nucleo dev board with an STM32L0 or L1 microprocessor and magnetometer
+- Select a model over the weekend, get it reviewed briefly on Monday, then we can ask Yoga to get it expensed / procured
+- We will start with a magnetometer-only solution for now, we will look into ultrasonic later (if needed)
+
+Communication between Devices
+- We want to look into pre-built communication modules instead of R&Ding our own solution
+  - Will make PCB prototyping much easier
+  - Matching impedance for antenna will be a challenge, not worth the time spent
+  - May make power consumption issue worse though
+- Potential protocols
+  - Bluetooth LE
+  - ZigBee
+  - RFID
+  - LoRaWAN / LPWAN
+  - IEEE 802.11ah
+- For each of these, what will we be researching?
+  - Power consumption
+  - Distance
+  - Interference (by metal / concrete)
+  - Cost
+  - Scalability (number of devices)
+- Potential idea: look into using hubs as a middleman between main gateway / server and parking spaces as a way to reduce power consumption
+
+Luyao and Andrew will individually meet on Monday to discuss purchasing of dev board, otherwise we will likely not meet again as a team until Friday.
+
 <!-- Don't edit anything below this line! -->
 
 <style>
