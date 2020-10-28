@@ -1,4 +1,4 @@
-# SPL Team Meeting Notes
+# Smart Parking Lot - Team Meeting Notes
 
 ## 10/5 Meeting
 
@@ -114,6 +114,6 @@ Earlier this week, we had agreed to limit our research to only LoRaWAN and Zigbe
 
 Both technologies had their advantages and disadvantages, so we ultimately decided in Friday's meeting with Professor Yoga and the TAs that it would be beneficial to experiment with both. We discussed some of the modules we found, and made the decision to purchase a set of each andd test with it in the coming weeks.
 
-Aside from compiling our research on communication modules, we spent the meeting compiling [Milestone 1](../milestone1.pdf).
+Aside from compiling our research on communication modules, we spent the meeting compiling [Milestone 1](milestone1.pdf).
 
 Action items for next week include procuring the LoRaWAN and Zigbee modules and dev boards, and testing our new magnetometer in one of the UCSB parking structures.
