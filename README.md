@@ -8,6 +8,8 @@ ECE 189 - [Computer Engineering Capstone](https://web.ece.ucsb.edu/~yoga/capston
 
 [Meeting Notes](meeting-notes)
 
+[Parts List / Budget Sheet](parts-list)
+
 ---
 
 ## Team Members
