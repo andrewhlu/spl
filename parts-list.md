@@ -46,20 +46,20 @@ Placed by Andrew, Shipped to ECE Shop
 
 ## LoRaWAN Mouser Order
 
-Placed by Andrew, Shipping to either Andrew or Jun
+Placed by Andrew, Shipping to Jun
 
 This order is being placed through Mouser because Digikey does not have any stock of the LoRa expansion board
 
 | Part | Quantity | Unit Price | Total Price |
 |------|----------|------------|-------------|
-| [NUCLEO-64 STM32L053R8 Development Board](https://www.mouser.com/ProductDetail/511-NUCLEO-L053R8) | 1 | $13.55 | $13.55 |
+| [Nucleo-64 STM32L053R8 Development Board](https://www.mouser.com/ProductDetail/511-NUCLEO-L053R8) | 1 | $13.55 | $13.55 |
 | [511-I-NUCLEO-LRWAN1 LoRa Expansion Board](https://www.mouser.com/ProductDetail/511-I-NUCLEO-LRWAN1) | 1 | $28.90 | $28.90 |
 | UPS Ground Shipping | 1 | $7.99 | $7.99 |
 | **TOTAL** |   |   | **$50.44** |
 
 ## LoRaWAN Amazon Order
 
-Placed by Andrew, Shipping to either Andrew or Jun
+Placed by Andrew, Shipping to Jun
 
 | Part | Quantity | Unit Price | Total Price |
 |------|----------|------------|-------------|
@@ -69,7 +69,7 @@ Placed by Andrew, Shipping to either Andrew or Jun
 
 ## Zigbee Digikey Order
 
-Placed by Andrew, Shipping to either Andrew or Jun
+Placed by Andrew, Shipping to Andrew
 
 | Part | Quantity | Unit Price | Total Price |
 |------|----------|------------|-------------|
@@ -78,7 +78,7 @@ Placed by Andrew, Shipping to either Andrew or Jun
 
 ## Zigbee Amazon Order
 
-Placed by Andrew, Shipping to either Andrew or Jun
+Placed by Andrew, Shipping to Andrew
 
 | Part | Quantity | Unit Price | Total Price |
 |------|----------|------------|-------------|
