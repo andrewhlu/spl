@@ -9,12 +9,12 @@ The following table tracks our budget. You can click on an order (or scroll down
 | Order | Price | New Balance | Status |
 |-------|-------|-------------|--------|
 | Original Balance |   | $3000.00 |   |
-| [10/16 Digikey Order](#1016-digikey-order) | $60.10 | $2939.90 | Received |
-| [10/21 Amazon Order](#1021-amazon-order) | $40.84 | $2899.06 | Received |
-| [LoRaWAN Mouser Order](#lorawan-mouser-order) | $54.47 | $2844.59 | Received |
-| [LoRaWAN Amazon Order](#lorawan-amazon-order) | $27.36 | $2817.23 | Received |
-| [Zigbee Digikey Order](#zigbee-digikey-order) | $47.36 | -- | Received |
-| [Zigbee Amazon Order](#zigbee-amazon-order) | $14.64 | -- | Received |
+| [10/16 Digikey Order](#1016-digikey-order) | $63.72 | $2936.28 | Received |
+| [10/21 Amazon Order](#1021-amazon-order) | $40.84 | $2895.44 | Received |
+| [LoRaWAN Mouser Order](#lorawan-mouser-order) | $54.47 | $2840.97 | Received |
+| [LoRaWAN Amazon Order](#lorawan-amazon-order) | $27.36 | $2813.61 | Received |
+| [Zigbee Digikey Order](#zigbee-digikey-order) | $47.36 | $2766.25 | Received |
+| [Zigbee Amazon Order](#zigbee-amazon-order) | $14.64 | $2751.61 | Received |
 
 ---
 
@@ -27,12 +27,11 @@ Placed by Luyao, Shipped to ECE Shop
 | Part | Quantity | Unit Price | Total Price |
 |------|----------|------------|-------------|
 | [Nucleo-64 STM32L053R8 Development Board](https://www.digikey.com/short/zd3md2) | 3 | $13.83 | $41.49 |
-| [Honeywell SM351LT Hall Effect Switch](https://www.digikey.com/short/zd3mvn) | 3 | $0.89 | $2.67 |
+| [Honeywell SM351LT Hall Effect Switch](https://www.digikey.com/short/zd3mvn) | 3 | $0.81 | $2.43 |
 | [TLE4921 Differential Hall Effect Sensor](https://www.digikey.com/short/zd3m1h) | 3 | $2.90 | $8.70 |
-| [HE515 Biasing Magnet](https://www.digikey.com/short/zd3h77) | 1 | $7.24 | $7.24 |
-| **TOTAL** |   |   | **$60.10** |
-
-(This order may be missing taxes and shipping fees, if any. Need to confirm with Luyao)
+| [HE515 Biasing Magnet](https://www.digikey.com/short/zd3h77) | 1 | $6.52 | $6.52 |
+| Tax | 1 | $4.58 | $4.58 |
+| **TOTAL** |   |   | **$63.72** |
 
 ## 10/21 Amazon Order
 
