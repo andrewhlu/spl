@@ -11,10 +11,10 @@ The following table tracks our budget. You can click on an order (or scroll down
 | Original Balance |   | $3000.00 |   |
 | [10/16 Digikey Order](#1016-digikey-order) | $60.10 | $2939.90 | Received |
 | [10/21 Amazon Order](#1021-amazon-order) | $40.84 | $2899.06 | Received |
-| [LoRaWAN Mouser Order](#lorawan-mouser-order) | $50.44 | -- | Not Yet Placed |
-| [LoRaWAN Amazon Order](#lorawan-amazon-order) | $26.93 | -- | Not Yet Placed |
-| [Zigbee Digikey Order](#zigbee-digikey-order) | $43.75 | -- | Not Yet Placed |
-| [Zigbee Amazon Order](#zigbee-amazon-order) | $14.64 | -- | Not Yet Placed |
+| [LoRaWAN Mouser Order](#lorawan-mouser-order) | $50.44 | -- | Received |
+| [LoRaWAN Amazon Order](#lorawan-amazon-order) | $26.93 | -- | Received |
+| [Zigbee Digikey Order](#zigbee-digikey-order) | $47.36 | -- | Received |
+| [Zigbee Amazon Order](#zigbee-amazon-order) | $14.64 | -- | Received |
 
 ---
 
@@ -46,7 +46,7 @@ Placed by Andrew, Shipped to ECE Shop
 
 ## LoRaWAN Mouser Order
 
-Placed by Andrew, Shipping to Jun
+Placed by Jun, Shipped to Jun
 
 This order is being placed through Mouser because Digikey does not have any stock of the LoRa expansion board
 
@@ -59,7 +59,7 @@ This order is being placed through Mouser because Digikey does not have any stoc
 
 ## LoRaWAN Amazon Order
 
-Placed by Andrew, Shipping to Jun
+Placed by Jun, Shipped to Jun
 
 | Part | Quantity | Unit Price | Total Price |
 |------|----------|------------|-------------|
@@ -69,16 +69,17 @@ Placed by Andrew, Shipping to Jun
 
 ## Zigbee Digikey Order
 
-Placed by Andrew, Shipping to Andrew
+Placed by Andrew, Shipped to Andrew
 
 | Part | Quantity | Unit Price | Total Price |
 |------|----------|------------|-------------|
 | [Nucleo-68 STM32WB55 BLE Development Pack](https://www.digikey.com/short/zn0tj4) | 1 | $43.75 | $43.75 |
-| **TOTAL** |   |   | **$43.75** |
+| Tax | 1 | $3.61 | $3.61 |
+| **TOTAL** |   |   | **$47.36** |
 
 ## Zigbee Amazon Order
 
-Placed by Andrew, Shipping to Andrew
+Placed by Andrew, Shipped to Andrew
 
 | Part | Quantity | Unit Price | Total Price |
 |------|----------|------------|-------------|
