@@ -11,8 +11,8 @@ The following table tracks our budget. You can click on an order (or scroll down
 | Original Balance |   | $3000.00 |   |
 | [10/16 Digikey Order](#1016-digikey-order) | $60.10 | $2939.90 | Received |
 | [10/21 Amazon Order](#1021-amazon-order) | $40.84 | $2899.06 | Received |
-| [LoRaWAN Mouser Order](#lorawan-mouser-order) | $50.44 | -- | Received |
-| [LoRaWAN Amazon Order](#lorawan-amazon-order) | $26.93 | -- | Received |
+| [LoRaWAN Mouser Order](#lorawan-mouser-order) | $54.47 | $2844.59 | Received |
+| [LoRaWAN Amazon Order](#lorawan-amazon-order) | $27.36 | $2817.23 | Received |
 | [Zigbee Digikey Order](#zigbee-digikey-order) | $47.36 | -- | Received |
 | [Zigbee Amazon Order](#zigbee-amazon-order) | $14.64 | -- | Received |
 
@@ -55,7 +55,8 @@ This order is being placed through Mouser because Digikey does not have any stoc
 | [Nucleo-64 STM32L053R8 Development Board](https://www.mouser.com/ProductDetail/511-NUCLEO-L053R8) | 1 | $13.55 | $13.55 |
 | [511-I-NUCLEO-LRWAN1 LoRa Expansion Board](https://www.mouser.com/ProductDetail/511-I-NUCLEO-LRWAN1) | 1 | $28.90 | $28.90 |
 | UPS Ground Shipping | 1 | $7.99 | $7.99 |
-| **TOTAL** |   |   | **$50.44** |
+| Tax | 1 | $4.03 | $4.03 |
+| **TOTAL** |   |   | **$54.47** |
 
 ## LoRaWAN Amazon Order
 
@@ -64,8 +65,8 @@ Placed by Jun, Shipped to Jun
 | Part | Quantity | Unit Price | Total Price |
 |------|----------|------------|-------------|
 | [ESP32 LoRa Development Board](https://www.amazon.com/dp/B076MSLFC9/) | 1 | $24.99 | $24.99 |
-| Tax | 1 | $1.94 | $1.94 |
-| **TOTAL** |   |   | **$26.93** |
+| Tax | 1 | $2.37 | $2.37 |
+| **TOTAL** |   |   | **$27.36** |
 
 ## Zigbee Digikey Order
 
