@@ -58,9 +58,16 @@ This is our proposed system block diagram, as submitted in Milestone 1.
 
 ## Sensor Unit PCB Design
 [PCB Schematics](sch.pdf)
+#### Miscellaneous
 ![miscellaneous](pins.png)
+
+#### Power Management
 ![power management](power.png)
+
+#### LoRa Comm
 ![LoRa](wireless.png)
+
+#### STM32 Microcontroller
 ![MCU](MCU.png)
 
 [PCB Layout(Open With Kicad)](spl_prototype.zip)
