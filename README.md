@@ -62,7 +62,7 @@ This is our proposed system block diagram, as submitted in Milestone 1.
 ## Sensor Unit PCB Design
 [PCB Schematics](sch.pdf)
 #### Miscellaneous
-![miscellaneous](pins.png  | width=20)
+![miscellaneous](pins.png){:height="50%" width="50%"}
 
 #### Power Management
 ![power management](power.png)
