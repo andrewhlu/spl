@@ -54,6 +54,7 @@ This is our proposed system block diagram, as submitted in Milestone 1.
 ## Project Milestones
 
 [Milestone 1](milestone1.pdf)
+[Milestone 2](spl_winter2021.pdf)
 
 ## Sensor Unit Assembly
 ![CaseAssembly](CaseAssembly.png)
@@ -77,3 +78,7 @@ This is our proposed system block diagram, as submitted in Milestone 1.
 ![PCB Assembly00](PCBAssembly00.png)
 
 ![PCB Assembly01](PCBAssembly01.png)
+
+#### Firmware Block Diagram
+
+![FirmwareBlock](firmware_block.png)
