@@ -54,3 +54,8 @@ This is our proposed system block diagram, as submitted in Milestone 1.
 ## Project Milestones
 
 [Milestone 1](milestone1.pdf)
+
+
+## PCB Design
+[PCB Schematics](sch.pdf)
+
