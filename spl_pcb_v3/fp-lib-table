@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Crystal)(type KiCad)(uri ${KIPRJMOD}/Libs/Crystal.pretty)(options "")(descr ""))
+  (lib (name ECS-80-18-10X)(type KiCad)(uri ${KIPRJMOD}/Libs/Crystal/ECS-80-18-10X.pretty)(options "")(descr ""))
+)
