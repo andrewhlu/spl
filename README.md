@@ -39,6 +39,7 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
 - Verify the design using prototype and development boards.
 - Develop the PCB for IoT devices targeting for deployment.
 - Design necessary 3D parts to construct a mini parking lot for demo purposes.
+- Design a gateway capable of handling 20+ endnodes
 
 ### Software Design
 - Server-side backend logic and APIs design.
@@ -82,3 +83,7 @@ This is our proposed system block diagram, as submitted in Milestone 1.
 #### Firmware Block Diagram
 
 ![FirmwareBlock](firmware_block.png )
+
+#### Gateway Implementation
+
+#### GUI Screenshots
