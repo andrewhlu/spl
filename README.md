@@ -1,4 +1,5 @@
 # Smart Parking Lot
+![parkingbase-logo](parkingbase-logo.jpg)
 
 ECE 189 - [Computer Engineering Capstone](https://web.ece.ucsb.edu/~yoga/capstone/), Professor Isukapalli
 
