@@ -2,15 +2,6 @@
 ![parkingbase-logo](parkingbase-logo.png)
 
 ECE 189 - [Computer Engineering Capstone](https://web.ece.ucsb.edu/~yoga/capstone/), Professor Isukapalli
-
-[View Repository on GitHub](https://github.com/andrewhlu/spl)
-
-[Open Slack Workspace](http://ucsb-capstone-21.slack.com/)
-
-[Meeting Notes](meeting-notes)
-
-[Parts List / Budget Sheet](parts-list)
-
 ---
 
 ## Team Members
@@ -47,8 +38,6 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
 - Front-end application design.
 
 ## Block Diagram
-
-This is our proposed system block diagram, as submitted in Milestone 1.
 
 ![BlockDiagram](BlockDiagram.png)
 
