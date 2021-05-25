@@ -50,7 +50,7 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
 
 This is our proposed system block diagram, as submitted in Milestone 1.
 
-![Block Diagram](block-diagram.jpg)
+![BlockDiagram](BlockDiagram.png)
 
 ## Project Milestones
 
