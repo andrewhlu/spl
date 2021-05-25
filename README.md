@@ -57,7 +57,9 @@ This is our proposed system block diagram, as submitted in Milestone 1.
 [Milestone 2](spl_winter2021.pdf)
 
 ## Sensor Unit Assembly
+![sensor_rendering02_edit](sensor_rendering02_edit.png)
 ![CaseAssembly](CaseAssembly.png )
+
 
 ## Sensor Unit PCB Design
 [PCB Schematics](sch.pdf)
@@ -78,6 +80,8 @@ This is our proposed system block diagram, as submitted in Milestone 1.
 ![PCB Assembly00](PCBAssembly00.png)
 
 ![PCB Assembly01](PCBAssembly01.png)
+
+![spl_prototype01.png](spl_prototype01.png)
 
 #### Firmware Block Diagram
 
