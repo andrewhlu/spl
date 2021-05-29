@@ -44,39 +44,39 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
 
 ## Project Milestones
 
-[Milestone 1](milestone1.pdf)
-[Milestone 2](spl_winter2021.pdf)
+[Milestone 1](/demo_pics/milestone1.pdf)
+[Milestone 2](/demo_pics/spl_winter2021.pdf)
 
 ## Sensor Unit Assembly
-![sensor_rendering02_edit](sensor_rendering02_edit.png)
-![Sensor-Unit](Sensor-Unit.png )
+![sensor_rendering02_edit](/demo_pics/sensor_rendering02_edit.png)
+![Sensor-Unit](/demo_pics/Sensor-Unit.png )
 
 
 ## Sensor Unit PCB Design
-[PCB Schematics](sch.pdf)
+[PCB Schematics](/demo_pics/sch.pdf)
 #### Miscellaneous
-![miscellaneous](pins.png){:height="50%" width="50%"}
+![miscellaneous](/demo_pics/pins.png){:height="50%" width="50%"}
 
 #### Power Management
-![power management](power.png)
+![power management](/demo_pics/power.png)
 
 #### LoRa Comm
-![LoRa](wireless.png)
+![LoRa](/demo_pics/wireless.png)
 
 #### STM32 Microcontroller
-![MCU](MCU.png)
+![MCU](/demo_pics/MCU.png)
 
-[PCB Layout(Open With Kicad)](spl_prototype.zip)
+[PCB Layout(Open With Kicad)](/demo_pics/spl_prototype.zip)
 
-![PCB Assembly00](PCBAssembly00.png)
+![PCB Assembly00](/demo_pics/PCBAssembly00.png)
 
-![PCB Assembly01](PCBAssembly01.png)
+![PCB Assembly01](/demo_pics/PCBAssembly01.png)
 
-![spl_prototype01.png](spl_prototype01.png)
+![spl_prototype01.png](/demo_pics/spl_prototype01.png)
 
 #### Firmware Block Diagram
 
-![FirmwareBlock](firmware_block.png )
+![FirmwareBlock](/demo_pics/firmware_block.png )
 
 #### Gateway Implementation
 
