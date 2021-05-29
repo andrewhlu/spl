@@ -73,21 +73,10 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
 
 ## Sensor Unit PCB Design
 [PCB Schematics](/demo_pics/sch.pdf)
-#### Miscellaneous
-
-
-#### Power Management
-
-
-#### LoRa Comm
-
-#### STM32 Microcontroller
+#
 [PCB Layout(Open With Kicad)](/demo_pics/spl_prototype.zip)
 
 
-#### Firmware Block Diagram
+## Gateway Implementation
 
-
-#### Gateway Implementation
-
-#### GUI Screenshots
+## GUI Screenshots
