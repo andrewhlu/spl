@@ -42,9 +42,13 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
 
 ![BlockDiagram](/demo_pics/block_diagram_01.png)
 
+## Application Scene
+![BlockDiagram](/demo_pics/application_scene.png)
+
 ## Project Milestones
 
 [Milestone 1](/demo_pics/milestone1.pdf)
+
 [Milestone 2](/demo_pics/spl_winter2021.pdf)
 
 ## Sensor Unit Assembly
