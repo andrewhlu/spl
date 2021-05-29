@@ -60,7 +60,9 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
 </p>
 
 
-![Sensor-Unit](/demo_pics/Sensor-Unit.png )
+<p align="center">
+  <img width="580" height="400" src=/demo_pics/Sensor-Unit.png>
+</p>
 
 
 ## Sensor Unit PCB Design
