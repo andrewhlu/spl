@@ -64,6 +64,12 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
   <img width="640" height="300" src=/demo_pics/Sensor-Unit.png>
 </p>
 
+## Firmware Block Diagram
+<p align="center">
+  <img width="640" height="480" src=/demo_pics/firmware_block.png>
+</p>
+
+
 
 ## Sensor Unit PCB Design
 [PCB Schematics](/demo_pics/sch.pdf)
