@@ -56,7 +56,7 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
 
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src=/demo_pics/sensor_rendering02_edit.png>
 </p>
 
 
