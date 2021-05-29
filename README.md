@@ -53,7 +53,11 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
 
 ## Sensor Unit Assembly
 ![sensor_rendering02_edit](/demo_pics/sensor_rendering02_edit.png)
+
+<p align="center">
 ![sensor_unit_assembly](/demo_pics/sensor_unit_assembly_electric_parts.png)
+</p>
+
 ![Sensor-Unit](/demo_pics/Sensor-Unit.png )
 
 
