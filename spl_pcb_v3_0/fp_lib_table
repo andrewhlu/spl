@@ -1,8 +1,0 @@
-(fp_lib_table
-  (lib (name RM3100)(type KiCad)(uri ${KIPRJMOD}/Libs/Sensor/RM3100.pretty)(options "")(descr ""))
-  (lib (name LP3905)(type KiCad)(uri ${KIPRJMOD}/Libs/Power/LP3905.pretty)(options "")(descr ""))
-  (lib (name bq51013b)(type KiCad)(uri ${KIPRJMOD}/Libs/Power/bq51013b.pretty)(options "")(descr ""))
-  (lib (name AMPHENOL_10118194-0001LF)(type KiCad)(uri ${KIPRJMOD}/Libs/USB/AMPHENOL_10118194-0001LF.pretty)(options "")(descr ""))
-  (lib (name Inductor)(type KiCad)(uri ${KIPRJMOD}/Libs/Inductor.pretty)(options "")(descr ""))
-  (lib (name 0806_Metric2016)(type KiCad)(uri ${KIPRJMOD}/Libs/Inductor/0806_Metric2016.pretty)(options "")(descr ""))
-)
