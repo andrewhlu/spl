@@ -61,7 +61,7 @@ In this project, you will design a smart parking lot prototype. Whenever a drive
 
 
 <p align="center">
-  <img width="640" height="480" src=/demo_pics/Sensor-Unit.png>
+  <img width="640" height="300" src=/demo_pics/Sensor-Unit.png>
 </p>
 
 
