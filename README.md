@@ -1,82 +1,127 @@
-# Smart Parking Lot
-![parkingbase-logo](parkingbase-logo.png)
+<div class="center">
+    <img src="logo.png" alt="Logo" height="150" />
+</div>
 
-ECE 189 - [Computer Engineering Capstone](https://web.ece.ucsb.edu/~yoga/capstone/), Professor Isukapalli
+# Smart Parking Lot
+
+A project for [ECE 189 - Computer Engineering Capstone](https://web.ece.ucsb.edu/~yoga/capstone/) led by Professor Isukapalli at UC Santa Barbara
+
+---
+
+[Parkingbase Demo Video](https://www.youtube.com/watch?v=abxjF7t0qpM)
+
+[Parkingbase Poster](docs/poster.pdf)
+
 ---
 
 ## Team Members
 
-* Andrew Lu - Team Lead
+* Andrew Lu
 * Finn Linderman
 * Luyao Han
 * Seungjun Cho
 
-## Project Statement
+## The Problem
 
-The rapid advancement of cloud computing has boosted the development of IoT devices in recent years. For example, IoT devices are deployed into farms to monitor and manage the status of crops. In another case, a massive amount of IoT devices are used to gather the wind direction & speed data for predicting the weather. In this project, we want to take the advantage of the current IoT development and try to save drivers time while they are searching for an unoccupied parking spot. Specifically, we are aiming to design a smart parking lot to ease the process of finding a parking spot.
+Drivers spend too much time in parking lots trying to find an open space to park in. Many parking lots only have per-floor capacity indicators, and existing solutions are prohibitively expensive.
 
-## Project Objective
+What if we could utilize low-cost sensors and a companion application to navigate drivers to empty parking spots faster, at a low cost to facility owners?
 
-In this project, you will design a smart parking lot prototype. Whenever a driver enters a parking lot, the driver can use his/her phone to open this parking lot app, from where he/she can tell what are the available spots. So instead of wandering around to find an empty spot, the driver can locate the empty spot right away and drive to the empty spot directly. To achieve the above features, this smart parking lot should be able to track which spot is occupied and which spot is available. As the front-end of this project, a web-based or phone-based app should indicate the driver where are the empty parking spots.
+## Project Overview
 
-## Project Tasks
+**The goal of this project is to design a smart parking lot that will direct drivers to the nearest open parking space in an efficient, accurate, and clean manner.**
 
-### System Overview
-- Design a smart parking lot system to achieve the above features and draw block diagrams.
-- In addition to just being functional, this system should also be achievable with a low price, mass deployable, and power saving.
-- Consider the interfaces between different modules, such as what protocols should be used between the server and the IoT devices, or what are the arguments and return values of the APIs.
+We accomplish this using:
 
-### Hardware Design
-- Design the schematics.
-- Verify the design using prototype and development boards.
-- Develop the PCB for IoT devices targeting for deployment.
-- Design necessary 3D parts to construct a mini parking lot for demo purposes.
-- Design a gateway capable of handling 20+ endnodes
+* Small, inexpensive parking lot sensors with long-range and low-power transmission
+* Modern, open-source, and cloud-based software solutions
+* Easy-to-use mobile interfaces
 
-### Software Design
-- Server-side backend logic and APIs design.
-- IoT devises firmware design, usually involves configuring interfaces like I2C, SPI, etc, communicating with sensors and managing threads if RTOS is used.
-- Front-end application design.
+# Technical Details
+
+For a more detailed description, please take a look at our [project presentation slides](docs/final-presentation.pdf).
+
+## System Overview
+
+![System Overview](demo_pics/system-overview.png)
+
+## Application Scene
+
+![Application Scene](demo_pics/application_scene.png)
 
 ## Block Diagram
 
-![BlockDiagram](/demo_pics/block_diagram_01.png)
-
-## Application Scene
-![BlockDiagram](/demo_pics/application_scene.png)
-
-## Project Milestones
-
-[Milestone 1](/demo_pics/milestone1.pdf)
-
-[Milestone 2](/demo_pics/spl_winter2021.pdf)
+<div class="center">
+  <img src="demo_pics/block-diagram.png" />
+</div>
 
 ## Sensor Unit Assembly
-![sensor_rendering02_edit](/demo_pics/sensor_rendering02_edit.png)
 
-
-<p align="center">
-  <img width="640" height="480" src=/demo_pics/sensor_unit_assembly_electric_parts.png>
-</p>
-
-
-<p align="center">
-  <img width="640" height="300" src=/demo_pics/Sensor-Unit.png>
-</p>
+<div class="center">
+  <img height="480" src="demo_pics/sensor-rendering.png" />
+  <img height="480" src="demo_pics/sensor_unit_assembly_electric_parts.png" />
+  <img src="demo_pics/Sensor-Unit.png" />
+</div>
 
 ## Firmware Block Diagram
-<p align="center">
-  <img width="640" height="480" src=/demo_pics/firmware_block.png>
-</p>
 
-
+<div class="center">
+  <img height="480" src="demo_pics/firmware_block.png" />
+</div>
 
 ## Sensor Unit PCB Design
-[PCB Schematics](/demo_pics/sch.pdf)
-#
-[PCB Layout(Open With Kicad)](/demo_pics/spl_prototype.zip)
 
+The raw Kicad design files can be found in the [pcb-design folder](https://github.com/andrewhlu/spl/tree/main/pcb_design) in our repo.
 
-## Gateway Implementation
+[PCB Schematic (as PDF)](docs/sch.pdf)
+
+[PCB Schematic (as PNG Image)](docs/sch.png)
+
+![Prototype](demo_pics/spl_prototype01.png)
 
 ## GUI Screenshots
+
+Driver User Interface:
+
+![Mobile UI](demo_pics/mobile-ui.png)
+
+Editor User Interface:
+
+![Editor UI](demo_pics/editor-ui.png)
+
+## Code Repositories
+
+* [spl](https://github.com/andrewhlu/spl)
+  * Documentation for this website
+  * PCB Design files
+  * Demo pictures
+* [spl-web](https://github.com/andrewhlu/spl-web)
+  * Code for our website, including the React frontend and backend API routes
+* [parkingbase-auth](https://github.com/andrewhlu/parkingbase-auth)
+  * Code for our custom authentication server
+
+# Project Progress Updates
+
+[Initial Design](docs/initial-design.pdf)
+
+[Milestone 1](docs/milestone1.pdf)
+
+[Milestone 2](docs/milestone2.pdf)
+
+[Fall Quarter Review Presentation](docs/fall-quarter-review.pdf)
+
+[Winter Quarter Review Presentation](docs/winter-quarter-review.pdf)
+
+[Final Poster](docs/poster.pdf)
+
+[Final Presentation](docs/final-presentation.pdf)
+
+
+<!-- Custom CSS for GitHub Pages -->
+
+<style>
+  .center {
+    text-align: center;
+    padding: 1rem;
+  }
+</style>
