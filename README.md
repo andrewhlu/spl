@@ -120,6 +120,10 @@ Editor User Interface:
 <!-- Custom CSS for GitHub Pages -->
 
 <style>
+  .markdown-body h1:first-of-type {
+    display: none;
+  }
+
   .center {
     text-align: center;
     padding: 1rem;
